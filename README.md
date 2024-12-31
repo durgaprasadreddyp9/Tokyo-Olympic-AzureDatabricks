@@ -1,1 +1,3 @@
 # Tokyo-Olympic-Azure-Databricks
+
+This project showcases an end-to-end analysis of Olympic data using Azure Data Factory, Azure Data Lake Gen 2, Azure Synapse Analytics, and Azure Databricks. The data was ingested using Azure Data Factory pipelines, stored in Azure Data Lake Gen 2, and transformed with PySpark in Azure Databricks for cleaning and processing. Azure Synapse Analytics was used for querying and analyzing the processed data to derive key insights such as medal trends, athlete performance, and country-wise achievements. The project demonstrates modern data engineering techniques for efficient data handling and analysis, and highlights how these tools can be used together to build scalable data solutions.
